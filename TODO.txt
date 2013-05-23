@@ -1,0 +1,5 @@
++ offrir la possibilité d'utiliser un bouton 'share this'
+    + modifier le control_panel
+    + modifier le viewlet
++ faire les 'locales'
+- faire fonctionner google+
